@@ -9,15 +9,15 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 
 <p align="center">
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=layssasuelen03-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-/>
+<p align="center">
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight&hide_border=true" 
-/>
+<a href="https://github.com/layssasuelen03-creator">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=layssasuelen03-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/layssasuelen03-creator">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </p>
 
