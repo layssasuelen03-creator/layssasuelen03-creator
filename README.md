@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou a Layssa Suellen!
+# 👋 Olá, eu sou a Layssa!
 
 Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver problemas reais por meio do código. Busco constantemente aprimorar minhas habilidades, aprender novas linguagens e explorar ferramentas modernas - sempre com o objetivo de entregar soluções eficientes e de qualidade💻✨
 
