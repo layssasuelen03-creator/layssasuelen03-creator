@@ -8,10 +8,8 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=layssasuelen03-creator&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=layssasuelen03-creator&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

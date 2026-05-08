@@ -18,7 +18,7 @@ jobs:
           github_user_name: layssasuelen03-creator
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=00BFFF&color_dots=#0d1117,#003820,#006830,#00a050,#39d353&palette=github-dark
-            dist/github-contribution-grid-snake.svg?color_snake=00BFFF
+            dist/github-contribution-grid-snake.svg?color_snake=86CFFO
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3
