@@ -11,13 +11,15 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=layssasuelen03-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=layssasuelen03-creator&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
 />
+
+</p>
 
 </p>
 ---
