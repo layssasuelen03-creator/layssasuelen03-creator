@@ -8,12 +8,13 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=layssasuelen03-creator&show_icons=true&theme=tokyonight&title_color=A8E6CF&icon_color=A8E6CF&text_color=ffffff&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=layssasuelen03-creator&show_icons=true&theme=tokyonight"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight&title_color=A8E6CF&text_color=ffffff&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight"/>
 </p>
 
-# 🚀 Tecnologias
+
+## 🚀 Tecnologias
 
 <p align="center">
 
@@ -35,7 +36,7 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 
 ---
 
- # 🐍 Minhas Contribuições
+ ## 🐍 Minhas  Contribuições
 
 <p align="center">
   <img src="https://github.com/layssasuelen03-creator/layssasuelen03-creator/blob/output/github-contribution-grid-snake-dark.svg" />
