@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: layssasuelen03-creator
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00FFFF&palette=github-dark
             dist/github-contribution-grid-snake.svg
           
       - name: Publicar no branch output
