@@ -13,6 +13,7 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&theme=tokyonight"/>
 </p>
 
+---
 
 ## 🚀 Tecnologias
 
