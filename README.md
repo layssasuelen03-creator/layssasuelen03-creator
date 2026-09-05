@@ -3,7 +3,7 @@
 
 <h1 align="center">Olá, eu sou a Layssa! 👋</h1>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header"/>
 
 
 # 👋 Olá, eu sou a Layssa!
@@ -40,4 +40,4 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer"/>
