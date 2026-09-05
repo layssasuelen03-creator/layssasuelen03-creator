@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=105&section=header"/>
-
-
 <h1 align="center">Olá, eu sou a Layssa! 👋</h1>
 
 Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver problemas reais por meio do código. Busco constantemente aprimorar minhas habilidades, aprender novas linguagens e explorar ferramentas modernas - sempre com o objetivo de entregar soluções eficientes e de qualidade💻✨
