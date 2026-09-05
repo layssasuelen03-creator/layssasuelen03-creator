@@ -1,34 +1,20 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header)
+
+<h1 align="center">Olá, eu sou a Layssa! 👋</h1>
+
+
 # 👋 Olá, eu sou a Layssa!
 
 Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver problemas reais por meio do código. Busco constantemente aprimorar minhas habilidades, aprender novas linguagens e explorar ferramentas modernas - sempre com o objetivo de entregar soluções eficientes e de qualidade💻✨
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<p align="center">
-
-<p align="center">
-
-<a href="https://github.com/layssasuelen03-creator">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=layssasuelen03-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/layssasuelen03-creator">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=layssasuelen03-creator&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 
 ---
 
 ## 🚀 Tecnologias
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,spring,git" alt="tech icons"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -48,3 +34,6 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 <p align="center">
   <img src="https://raw.githubusercontent.com/layssasuelen03-creator/layssasuelen03-creator/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
