@@ -43,6 +43,11 @@ Desenvolvedora apaixonada por tecnologia e inovação, com foco em resolver prob
 
 </p>
 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,spring,git" alt="tech icons"/>
+</p>
+
 ---
 
  ## 🐍 Minhas  Contribuições
